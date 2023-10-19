@@ -7,5 +7,17 @@ Here, we'll investigate and quantify musical data to derive insightful conclusio
 Using data from Spotify, carry out an exploratory data analysis (EDA) and data visualization project using Python.
 
 # Technologies Used
-Python
-Statistics
+- Python
+- Statistics
+
+# Objectives: 
+
+- Top 10 most popular songs
+- Top 10 least popular songs
+- Correlation heatmap between the variables using Pearson correlation method
+- Regression plot - Correlation between loudness and energy
+- Regression plot - Correlation between popularity and acousticness
+- Distribution plot - visualizing total number of songs on spotify since 1994
+- Distibution plot - Visualize total number of songs on Spotify since 1992
+- Change in Duration of songs wrt Years
+- Duration of songs in different Genres
